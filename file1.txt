@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 This is an update for file1
+This is another update
+>>>>>>> dev
